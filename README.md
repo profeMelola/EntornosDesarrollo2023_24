@@ -67,4 +67,4 @@ Los pasos a seguir para trabajar de forma colaborativa son:
 
 Puedes practicar siguiendo esta guia: https://docs.github.com/es/get-started/quickstart/hello-world?source=post_page-----62dea67aa2eb--------------------------------
 
-<sub>Referencia: https://medium.com/laboratoria-how-to/t%C3%BA-y-yo-usando-git-colaborativo-no-se-pi%C3%A9nsalo-62dea67aa2eb</sub>
+<sub>Fuente: https://medium.com/laboratoria-how-to/t%C3%BA-y-yo-usando-git-colaborativo-no-se-pi%C3%A9nsalo-62dea67aa2eb</sub>
