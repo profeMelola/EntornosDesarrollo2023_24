@@ -2,6 +2,8 @@
 
 La profe melola
 
+Sofia y Karen
+
 Fco Javier Belda Alovera
 
 Jesus Alonso
@@ -19,4 +21,5 @@ Luis Maeso Beltran esta es mi linea los arrays son dificiles
 La profe melola
 
 Javier
+
 
