@@ -2,5 +2,61 @@
 
 
 La profe melola
-
 Dupla de Ivan y Adrian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Luis Maeso Beltran esta es mi linea los arrays son dificiles
+
